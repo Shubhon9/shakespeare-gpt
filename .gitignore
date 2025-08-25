@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Model weights
+*.pt
+checkpoints/
+
+.venv/
